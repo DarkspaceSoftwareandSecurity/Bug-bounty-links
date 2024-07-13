@@ -17,3 +17,9 @@ bash
 Copy code
 python create_bug_bounty_doc.py
 This script will generate the Word document with active hyperlinks and save it to the Downloads folder on your local machine.
+
+Be sure to check our Python Courses coming soon to 
+https://darkspacesoftwareandsecurity.com/
+
+Here is the CEO'S Mission
+https://darkspacesoftwareandsecurity.com/michael-blenkinsop-ceo-of-darkspace-software-security/
