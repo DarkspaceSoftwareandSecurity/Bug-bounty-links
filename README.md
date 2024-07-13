@@ -1,4 +1,4 @@
-# Bug-bounty-links
+# Bug-bounty-links PYTHON 3X
 This project generates a Word document listing various bug bounty programs offered by prominent companies, including Google, Microsoft, and Apple. Each entry contains an active hyperlink to the respective bug bounty submission website, facilitating easy access for users
 Technical Achievement
 Automation: Efficiently creates a structured and hyperlinked Word document using Python, saving time and reducing errors.
