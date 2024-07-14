@@ -1,7 +1,11 @@
 # Bug-bounty-links PYTHON 3X
 
 
-![d3](https://github.com/user-attachments/assets/bc7d6ab9-ff51-4461-a439-539c02f6bb95)
+
+
+https://github.com/user-attachments/assets/23002f7d-cc41-49b0-9da8-570ecd594706
+
+
 
 This project generates a Word document listing various bug bounty programs offered by prominent companies, including Google, Microsoft, and Apple. Each entry contains an active hyperlink to the respective bug bounty submission website, facilitating easy access for users
 Technical Achievement
